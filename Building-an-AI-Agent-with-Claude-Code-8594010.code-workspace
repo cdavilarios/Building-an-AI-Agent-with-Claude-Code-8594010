@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../exercise_files"
+		}
+	],
+	"settings": {
+		"terminal.integrated.fontSize": 18,
+		"workbench.colorTheme": "LinkedIn Learning Dark",
+		"workbench.fontAliasing": "antialiased",
+		"workbench.statusBar.visible": true,
+		"liveServer.settings.root": "/docs",
+		"liveServer.settings.donotVerifyTags": true
+	}
+}
